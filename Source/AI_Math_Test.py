@@ -17,7 +17,7 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
@@ -84,7 +84,7 @@ def parse_answer(message):
       pos = pos + 1
 
    if (cnt == 0 or cnt2 == 0):
-      return False, 0, "WARNING: No brackets or incomplet"
+      return False, 0, "WARNING: No brackets or incomplete"
 
    if (cnt > 1 or cnt2 > 1):
       return False, 0, "WARNING:  Too many brackets in output from GPT"
