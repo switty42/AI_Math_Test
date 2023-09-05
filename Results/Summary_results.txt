@@ -1,0 +1,17 @@
+
+
+
+****** Final report *******************************************************************
+
+Total correct: 22 Total wrong: 8
+
+******** Problems where GPT was incorrect *******
+
+Problem: (13 + 25) * 11 =  GPT answer: 484   Actual Answer: 418
+Problem: (10 + 23) * 21 =  GPT answer: 670   Actual Answer: 693
+Problem: (12 + 19) * 9 =   GPT answer: 297   Actual Answer: 279
+Problem: (13 + 23) * 27 =  GPT answer: 960   Actual Answer: 972
+Problem: (27 + 19) * 23 =  GPT answer: 1012  Actual Answer: 1058
+Problem: (29 + 28) * 7 =   GPT answer: 413   Actual Answer: 399
+Problem: (19 + 24) * 19 =  GPT answer: 855   Actual Answer: 817
+Problem: (16 + 21) * 29 =  GPT answer: 1015  Actual Answer: 1073

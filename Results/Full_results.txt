@@ -1,0 +1,406 @@
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (21 + 14) * 6 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{210}
+
+GPT string decoded: 210
+Actual answer 210
+GPT is Correct
+Total correct: 1 Total wrong: 0
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (13 + 25) * 11 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{484}
+
+GPT string decoded: 484
+Actual answer 418
+GPT is Wrong
+Total correct: 1 Total wrong: 1
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (12 + 6) * 4 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{72}
+
+GPT string decoded: 72
+Actual answer 72
+GPT is Correct
+Total correct: 2 Total wrong: 1
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (1 + 18) * 13 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{247}
+
+GPT string decoded: 247
+Actual answer 247
+GPT is Correct
+Total correct: 3 Total wrong: 1
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (3 + 6) * 7 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{63}
+
+GPT string decoded: 63
+Actual answer 63
+GPT is Correct
+Total correct: 4 Total wrong: 1
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (10 + 23) * 21 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{670}
+
+GPT string decoded: 670
+Actual answer 693
+GPT is Wrong
+Total correct: 4 Total wrong: 2
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (15 + 21) * 13 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{468}
+
+GPT string decoded: 468
+Actual answer 468
+GPT is Correct
+Total correct: 5 Total wrong: 2
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (17 + 14) * 16 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{496}
+
+GPT string decoded: 496
+Actual answer 496
+GPT is Correct
+Total correct: 6 Total wrong: 2
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (11 + 8) * 7 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{133}
+
+GPT string decoded: 133
+Actual answer 133
+GPT is Correct
+Total correct: 7 Total wrong: 2
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (4 + 16) * 22 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{440}
+
+GPT string decoded: 440
+Actual answer 440
+GPT is Correct
+Total correct: 8 Total wrong: 2
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (12 + 19) * 9 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{297}
+
+GPT string decoded: 297
+Actual answer 279
+GPT is Wrong
+Total correct: 8 Total wrong: 3
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (22 + 18) * 3 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{120}
+
+GPT string decoded: 120
+Actual answer 120
+GPT is Correct
+Total correct: 9 Total wrong: 3
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (23 + 21) * 20 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{880}
+
+GPT string decoded: 880
+Actual answer 880
+GPT is Correct
+Total correct: 10 Total wrong: 3
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (5 + 20) * 1 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{25}
+
+GPT string decoded: 25
+Actual answer 25
+GPT is Correct
+Total correct: 11 Total wrong: 3
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (18 + 22) * 1 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{40}
+
+GPT string decoded: 40
+Actual answer 40
+GPT is Correct
+Total correct: 12 Total wrong: 3
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (13 + 23) * 27 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{960}
+
+GPT string decoded: 960
+Actual answer 972
+GPT is Wrong
+Total correct: 12 Total wrong: 4
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (27 + 21) * 6 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{288}
+
+GPT string decoded: 288
+Actual answer 288
+GPT is Correct
+Total correct: 13 Total wrong: 4
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (1 + 23) * 22 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{528}
+
+GPT string decoded: 528
+Actual answer 528
+GPT is Correct
+Total correct: 14 Total wrong: 4
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (16 + 19) * 6 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{210}
+
+GPT string decoded: 210
+Actual answer 210
+GPT is Correct
+Total correct: 15 Total wrong: 4
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (27 + 19) * 23 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{1012}
+
+GPT string decoded: 1012
+Actual answer 1058
+GPT is Wrong
+Total correct: 15 Total wrong: 5
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (15 + 3) * 2 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{36}
+
+GPT string decoded: 36
+Actual answer 36
+GPT is Correct
+Total correct: 16 Total wrong: 5
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (29 + 28) * 7 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{413}
+
+GPT string decoded: 413
+Actual answer 399
+GPT is Wrong
+Total correct: 16 Total wrong: 6
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (0 + 5) * 13 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{65}
+
+GPT string decoded: 65
+Actual answer 65
+GPT is Correct
+Total correct: 17 Total wrong: 6
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (20 + 18) * 1 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{38}
+
+GPT string decoded: 38
+Actual answer 38
+GPT is Correct
+Total correct: 18 Total wrong: 6
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (4 + 29) * 6 =
+Provide back the answer inside of {}.  Provide the answer only. 
+For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{198}
+
+GPT string decoded: 198
+Actual answer 198
+GPT is Correct
+Total correct: 19 Total wrong: 6
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (12 + 10) * 25 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{550}
+
+GPT string decoded: 550
+Actual answer 550
+GPT is Correct
+Total correct: 20 Total wrong: 6
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (19 + 24) * 19 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+The answer to (19 + 24) * 19 is {855}.
+
+GPT string decoded: 855
+Actual answer 817
+GPT is Wrong
+Total correct: 20 Total wrong: 7
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (21 + 29) * 14 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{700}
+
+GPT string decoded: 700
+Actual answer 700
+GPT is Correct
+Total correct: 21 Total wrong: 7
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (17 + 26) * 25 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{1075}
+
+GPT string decoded: 1075
+Actual answer 1075
+GPT is Correct
+Total correct: 22 Total wrong: 7
+
+************************************** GPT Prompt ********************
+What is the answer to this math problem? (16 + 21) * 29 =
+Provide back the answer inside of {}.  Provide the answer 
+only.  For example if the answer is 7, then reply back with {7}
+
+*************** GPT Answer *****************
+{1015}
+
+GPT string decoded: 1015
+Actual answer 1073
+GPT is Wrong
+Total correct: 22 Total wrong: 8
+
+
+****** Final report *******************************************************************
+
+Total correct: 22 Total wrong: 8
+
+******** Problems where GPT was incorrect *******
+
+Problem: (13 + 25) * 11 =  GPT answer: 484   Actual Answer: 418
+Problem: (10 + 23) * 21 =  GPT answer: 670   Actual Answer: 693
+Problem: (12 + 19) * 9 =   GPT answer: 297   Actual Answer: 279
+Problem: (13 + 23) * 27 =  GPT answer: 960   Actual Answer: 972
+Problem: (27 + 19) * 23 =  GPT answer: 1012  Actual Answer: 1058
+Problem: (29 + 28) * 7 =   GPT answer: 413   Actual Answer: 399
+Problem: (19 + 24) * 19 =  GPT answer: 855   Actual Answer: 817
+Problem: (16 + 21) * 29 =  GPT answer: 1015  Actual Answer: 1073
