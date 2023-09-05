@@ -2,7 +2,7 @@
 Docs 9-4-23 V1 (For questions or comments:  Stephen Witty switty@level500.com)  
 
 ### Project Overview:
-This project seeks to test ChatGPT on a set of simple math problems.  By default, the problems are of the type (A + B) + C = where A, B, and C are random numbers between 0 and 30.  The Python script is available under the "Source" directory. The results of a sample run are under the "Results" directory.  ChatGPT does get a number of the problems incorrect.
+This project seeks to test ChatGPT on a set of simple math problems.  By default, the problems are of the type (A + B) * C = where A, B, and C are random numbers between 0 and 30.  The Python script is available under the "Source" directory. The results of a sample run are under the "Results" directory.  ChatGPT does get a number of the problems incorrect.
 
 
 <img src="Pics/results.jpg" width="650">
