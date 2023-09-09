@@ -6,9 +6,9 @@
 # Example code from rollbar.com - GPT example
 #
 # V1 9-4-23 - Initial release / dev
+# V2 9-9-23 - Clean up comments
 #
 # Notes - Add your OpenAI key below
-# Change Linux constant below for correct clear screen command for your OS
 
 import openai
 import time
@@ -17,14 +17,14 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
 #gpt_model = "gpt-4"
 
 ###################### Constants ##########################################################
-NUMBER_OF_MATH_PROBLEMS = 30      # Number of games the program will play before exiting
+NUMBER_OF_MATH_PROBLEMS = 30      # Number of problems before exiting
 GPT_RETRY_LIMIT = 25              # Number of times to retry GPT if errors occur
 
 ########## This function creates the AI prompt #######
