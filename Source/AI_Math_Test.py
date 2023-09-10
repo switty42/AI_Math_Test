@@ -7,6 +7,7 @@
 #
 # V1 9-4-23 - Initial release / dev
 # V2 9-9-23 - Clean up comments
+# V3 9-9-23 - Clean up more comments
 #
 # Notes - Add your OpenAI key below
 
@@ -124,7 +125,7 @@ prob_hist_wrong = []
 prob_hist_gpt_answer = []
 prob_hist_actual_answer = []
 
-while(number_of_problems < NUMBER_OF_MATH_PROBLEMS): # Main loop to start games
+while(number_of_problems < NUMBER_OF_MATH_PROBLEMS): # Main loop to start problems
 
    # Create math problem
    actual_answer, math_string = create_problem()
@@ -135,7 +136,7 @@ while(number_of_problems < NUMBER_OF_MATH_PROBLEMS): # Main loop to start games
    print("\n************************************** GPT Prompt ********************")
    print_string(prompt)
 
-   ################### Call GPT and decode reply to a move
+   ################### Call GPT and decode answer reply
    retry_count = 0
    success = False # Keep running prompt until we get a valid answer to check
 
