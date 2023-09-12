@@ -8,6 +8,7 @@
 # V1 9-4-23 - Initial release / dev
 # V2 9-9-23 - Clean up comments
 # V3 9-9-23 - Clean up more comments
+# V4 9-12-23 - Add timeout to GPT
 #
 # Notes - Add your OpenAI key below
 
@@ -18,7 +19,7 @@ import os
 import random
 
 # Put OpenAI API key here
-openai.api_key = "XXXXXXXXXXXXXXXXXXXXXXXXXXX"
+openai.api_key = "XXXXXXXXXXXXXXXXXXXXX"
 
 # Uncomment GPT model desired here
 gpt_model='gpt-3.5-turbo'
@@ -52,7 +53,7 @@ def print_string(string):
 ############### Function - Call ChatGPT #########################################
 def call_gpt(prompt_message):
    try:
-      response = openai.ChatCompletion.create(model=gpt_model, messages=[ {"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": prompt_message},])
+      response = openai.ChatCompletion.create(model=gpt_model, messages=[ {"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": prompt_message}],request_timeout=15)
    except Exception as e:
       return False, "", "WARNING:  System Error during ChatGPT call: " + str(e)
 
